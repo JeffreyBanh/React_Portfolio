@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio/static/css/main.d7da34c1.css",
+    "main.js": "/React_Portfolio/static/js/main.716b1452.js",
+    "static/media/video.mp4": "/React_Portfolio/static/media/video.f7f18e0adc33b155f620.mp4",
+    "static/media/Allergy-Finder.PNG": "/React_Portfolio/static/media/Allergy-Finder.e2fad0a0e20d2df49885.PNG",
+    "static/media/Self-Service.jpg": "/React_Portfolio/static/media/Self-Service.bec28449866351daa4bc.jpg",
+    "static/media/Travel-Agent.png": "/React_Portfolio/static/media/Travel-Agent.d193a5593063e3e1a274.png",
+    "static/media/Threading.jpg": "/React_Portfolio/static/media/Threading.ae8ebf5afbeb23f30b7f.jpg",
+    "static/media/Mailbox.jpg": "/React_Portfolio/static/media/Mailbox.485d05fba92f50347f5b.jpg",
+    "static/media/svg-3.svg": "/React_Portfolio/static/media/svg-3.a4dd9a5ac0e404dece803c1a5a6d2a02.svg",
+    "static/media/svg-1.svg": "/React_Portfolio/static/media/svg-1.7cc2e57fee0e5a1f90b6c9495e301d8a.svg",
+    "static/media/svg-2.svg": "/React_Portfolio/static/media/svg-2.621255fef4a97cb8c4ba030b9d66bb73.svg",
+    "index.html": "/React_Portfolio/index.html",
+    "main.d7da34c1.css.map": "/React_Portfolio/static/css/main.d7da34c1.css.map",
+    "main.716b1452.js.map": "/React_Portfolio/static/js/main.716b1452.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.716b1452.js"
+  ]
+}
